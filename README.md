@@ -13,10 +13,14 @@ Spotlight PA, PINJ, and AOPC officials discussed the request for months to ident
 The newsrooms aimed to obtain the largest possible dataset of cases involving competency proceedings in Pennsylvania and determine what types of crimes the people involved in those proceedings had been charged with.
 
 AOPC provided the newsrooms with four separate but related datasets: 
-Case and disposition data showing the charges brought in a case.
-Sentencing data showing the sentence the person received.
-Attorney data showing the attorneys and judges involved in the case.
-Docket entry data showing the competency-related docket entry in a case.
+
+-Case and disposition data showing the charges brought in a case.
+
+-Sentencing data showing the sentence the person received.
+
+-Attorney data showing the attorneys and judges involved in the case.
+
+-Docket entry data showing the competency-related docket entry in a case.
 
 Spotlight PA and PINJ used only the first dataset in the analysis, given the limitations of both time and the data.
 
