@@ -14,13 +14,13 @@ The newsrooms aimed to obtain the largest possible dataset of cases involving co
 
 AOPC provided the newsrooms with four separate but related datasets: 
 
--Case and disposition data showing the charges brought in a case.
+-Case and disposition data showing the charges brought in a case. (Competency_case_data_cleaned.csv)
 
--Sentencing data showing the sentence the person received.
+-Sentencing data showing the sentence the person received. (Competency_sentencing_data.csv)
 
--Attorney data showing the attorneys and judges involved in the case.
-
--Docket entry data showing the competency-related docket entry in a case.
+-Attorney data showing the attorneys and judges involved in the case. (Competency_attorney_data.xlsx)
+ 
+-Docket entry data showing the competency-related docket entry in a case. (Competency_docket_entry_data.xlsx)
 
 Spotlight PA and PINJ used only the first dataset in the analysis, given the limitations of both time and the data.
 
