@@ -4,7 +4,7 @@ In March, Spotlight PA and the Pittsburgh Institute for Nonprofit Journalism pub
 
 The investigation found this system often harms the very people it’s meant to protect.
 
-Integral to the reporting was a unique dataset the newsrooms requested and purchased from the Administrative Office of Pennsylvania Courts, the government body that oversees local courts and maintains thousands of case records from across the state.
+Integral to the reporting was a unique dataset the newsrooms requested (Competency_Docket_Data_Requesat.xlsx) and purchased from the Administrative Office of Pennsylvania Courts, the government body that oversees local courts and maintains thousands of case records from across the state.
 
 Spotlight PA and PINJ are now making the data acquired through those requests available to the public so that researchers, other journalists, and anyone interested in examining these sources can put them to use. 
 
@@ -21,6 +21,8 @@ AOPC provided the newsrooms with four separate but related datasets:
 -Attorney data showing the attorneys and judges involved in the case. (Competency_attorney_data.xlsx)
  
 -Docket entry data showing the competency-related docket entry in a case. (Competency_docket_entry_data.xlsx)
+
+AOPC also provided a data layout (Competency_data_file_layout.xlsx)
 
 Spotlight PA and PINJ used only the first dataset in the analysis, given the limitations of both time and the data.
 
